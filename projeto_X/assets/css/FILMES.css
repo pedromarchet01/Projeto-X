@@ -1,0 +1,202 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+header{
+  background-color: #000000;
+  border: 2px solid #ffffff;
+  text-align: center;
+}
+
+nav{
+  background-color: #000000;
+  border: 3px solid #ffffff;
+  padding: 10px;
+}
+
+ol{
+  color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-size: 1.9vw;
+}
+
+.p1{
+  margin-left: 10px;
+  display: inline-block;
+}
+
+.p2{
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.p3{
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.p4{
+  display: inline-block;
+  margin-left: 10px;
+}
+
+.p5{
+  display: inline-block;
+  margin-left: 10px;
+}
+
+body{
+  background-color: #000000;
+}
+
+h1{
+  color: #ffffff;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+  text-align: center;
+  font-size: 3vw;
+}
+
+article{
+  text-align: center;
+}
+
+#box1,#box2,#box3,#box4,#box5{
+  border:2px solid #ffffff;
+  max-width: 10vw;
+  min-width: 215px;
+  max-height: 10vh;
+  min-height:300px ;
+  display: inline-block;
+}
+
+#box6,#box7,#box8,#box9,#box10{
+  border:2px solid #ffffff;
+  max-width: 10vw;
+  min-width: 215px;
+  max-height: 10vh;
+  min-height:300px ;
+  display: inline-block;
+}
+
+#box11,#box12{
+  border:2px solid #ffffff;
+  max-width: 10vw;
+  min-width: 215px;
+  max-height: 10vh;
+  min-height:300px ;
+  display: inline-block;
+}
+
+#box13{
+  border:2px solid #ffffff;
+  max-width: 10vw;
+  min-width: 215px;
+  max-height: 10vh;
+  min-height:300px ;
+  display: inline-block;
+}
+
+#box1{
+  background-image: url(../images/20128632\ \(1\).jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#box2{
+  background-image: url(../images/big-poster-x-men-2-2003-lo01-tamanho-90x60-cm-nerd.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#box3{
+  background-image: url(../images/big-poster-x-men-3-o-confronto-final-lo04-tamanho-90x60-cm-nerd.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#box4{
+  background-image: url(../images/hnuu1w5cnvr51.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#box5{
+  background-image: url(../images/6da9b4a1956ccdf4188bda66a1a9d691.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#box6{
+  background-image: url(../images/big-poster-filme-wolverine-imortal-lo10-tamanho-90x60-cm-poster.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#box7{
+  background-image: url(../images/X-Men_Dias_Futuro_Esquecido_2014.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#box8{
+  background-image: url(../images/deadd.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#box9{
+  background-image: url(../images/Xmen_apocalypse_ver18.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#box10{
+  background-image: url(../images/logan_584x800_9a5af33a.webp);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#box11{
+  background-image: url(../images/filme_8073.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#box12{
+  background-image: url(../images/Dark_Phoenix_\(2019\).jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+#box13{
+  background-image: url(../images/MV5BZDQ2NTdmNDgtMGIwMS00ODE2LTk5M2EtZGZhYzc4MWRlNTU3XkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+a{
+  color: #ffffff;
+  text-decoration: none;
+}
+
+a:hover{
+  transition: 1s;
+  color: gray;
+}
